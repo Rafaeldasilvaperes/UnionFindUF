@@ -1,0 +1,19 @@
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\01 - QuickFindUF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\01 - QuickFindUF.AssemblyInfoInputs.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\01 - QuickFindUF.AssemblyInfo.cs
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\01 - QuickFindUF.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\01 - QuickFindUF.exe
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\01 - QuickFindUF.deps.json
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\01 - QuickFindUF.runtimeconfig.json
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\01 - QuickFindUF.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\01 - QuickFindUF.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\Shared.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\Shared.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\01 - QuickFindUF.csproj.AssemblyReference.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\01 - Qui.FEE7E6E2.Up2Date
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\01 - QuickFindUF.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\refint\01 - QuickFindUF.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\01 - QuickFindUF.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\01 - QuickFindUF.genruntimeconfig.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\ref\01 - QuickFindUF.dll

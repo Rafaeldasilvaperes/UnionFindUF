@@ -1,0 +1,14 @@
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\bin\Debug\net8.0\UnionFind.exe
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\bin\Debug\net8.0\UnionFind.deps.json
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\bin\Debug\net8.0\UnionFind.runtimeconfig.json
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\bin\Debug\net8.0\UnionFind.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\bin\Debug\net8.0\UnionFind.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\obj\Debug\net8.0\UnionFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\obj\Debug\net8.0\UnionFind.AssemblyInfoInputs.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\obj\Debug\net8.0\UnionFind.AssemblyInfo.cs
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\obj\Debug\net8.0\UnionFind.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\obj\Debug\net8.0\UnionFind.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\obj\Debug\net8.0\refint\UnionFind.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\obj\Debug\net8.0\UnionFind.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\obj\Debug\net8.0\UnionFind.genruntimeconfig.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\UnionFind\obj\Debug\net8.0\ref\UnionFind.dll

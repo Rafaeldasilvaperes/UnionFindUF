@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Pg98xn+yNwn4wCfy6VyNyUCkMJ6kAGmkTo3HXaW3DHkHn1CNYJygwPouaO4NJ9cTdyaO8e6Bcrxjwg0Dl+INA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gamer\\Documents\\Rafael\\Algoritimos, Parte 1 - Coursera - Materiais\\UnionFind\\UnionFind\\04 - QuickUnionWithPathCompression\\04 - QuickUnionWithPathCompression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamer\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f8jcI4uiP5e5vHOnO2gSbY4t/j2kWuyLPO/e2cUhbFrRNcG2d1YCM9mn+ZuxCnovaoHTohPc8p5p84VuhBUfIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gamer\\Documents\\Rafael\\Algoritimos, Parte 1 - Coursera - Materiais\\UnionFind\\UnionFind\\QuickFindUF\\01 - QuickFindUF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamer\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

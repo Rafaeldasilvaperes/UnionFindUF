@@ -1,0 +1,19 @@
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\bin\Debug\net8.0\04 - QuickUnionWithPathCompression.exe
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\bin\Debug\net8.0\04 - QuickUnionWithPathCompression.deps.json
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\bin\Debug\net8.0\04 - QuickUnionWithPathCompression.runtimeconfig.json
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\bin\Debug\net8.0\04 - QuickUnionWithPathCompression.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\bin\Debug\net8.0\04 - QuickUnionWithPathCompression.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\bin\Debug\net8.0\Shared.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\bin\Debug\net8.0\Shared.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\obj\Debug\net8.0\04 - QuickUnionWithPathCompression.csproj.AssemblyReference.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\obj\Debug\net8.0\04 - QuickUnionWithPathCompression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\obj\Debug\net8.0\04 - QuickUnionWithPathCompression.AssemblyInfoInputs.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\obj\Debug\net8.0\04 - QuickUnionWithPathCompression.AssemblyInfo.cs
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\obj\Debug\net8.0\04 - QuickUnionWithPathCompression.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\obj\Debug\net8.0\04 - Qui.3C60E5D7.Up2Date
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\obj\Debug\net8.0\04 - QuickUnionWithPathCompression.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\obj\Debug\net8.0\refint\04 - QuickUnionWithPathCompression.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\obj\Debug\net8.0\04 - QuickUnionWithPathCompression.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\obj\Debug\net8.0\04 - QuickUnionWithPathCompression.genruntimeconfig.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\04 - QuickUnionWithPathCompression\obj\Debug\net8.0\ref\04 - QuickUnionWithPathCompression.dll

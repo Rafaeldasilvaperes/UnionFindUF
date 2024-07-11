@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnionFind", "UnionFind\UnionFind.csproj", "{6D2ED262-D195-41C7-845B-4D8A49067F92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 - QuickFindUF", "QuickFindUF\01 - QuickFindUF.csproj", "{45597D3B-4610-4FB0-933E-A9C425D10C1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 - QuickUnionUF", "QuickUnionUF\02 - QuickUnionUF.csproj", "{DC40A023-4FA0-4868-8990-8D21625643E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{C4C05D78-2E7D-411D-876B-826CC1417E5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03 - QuickUnionUFImproved", "03 - QuickUnionUFImproved\03 - QuickUnionUFImproved.csproj", "{10AC794B-38E9-4EAB-9345-56971147E400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - QuickUnionWithPathCompression", "04 - QuickUnionWithPathCompression\04 - QuickUnionWithPathCompression.csproj", "{6C2140DA-083B-474C-8085-44D51C6174EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D2ED262-D195-41C7-845B-4D8A49067F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2ED262-D195-41C7-845B-4D8A49067F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2ED262-D195-41C7-845B-4D8A49067F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2ED262-D195-41C7-845B-4D8A49067F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45597D3B-4610-4FB0-933E-A9C425D10C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45597D3B-4610-4FB0-933E-A9C425D10C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45597D3B-4610-4FB0-933E-A9C425D10C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45597D3B-4610-4FB0-933E-A9C425D10C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC40A023-4FA0-4868-8990-8D21625643E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC40A023-4FA0-4868-8990-8D21625643E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC40A023-4FA0-4868-8990-8D21625643E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC40A023-4FA0-4868-8990-8D21625643E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C05D78-2E7D-411D-876B-826CC1417E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C05D78-2E7D-411D-876B-826CC1417E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C05D78-2E7D-411D-876B-826CC1417E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C05D78-2E7D-411D-876B-826CC1417E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10AC794B-38E9-4EAB-9345-56971147E400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AC794B-38E9-4EAB-9345-56971147E400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AC794B-38E9-4EAB-9345-56971147E400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AC794B-38E9-4EAB-9345-56971147E400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2140DA-083B-474C-8085-44D51C6174EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2140DA-083B-474C-8085-44D51C6174EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2140DA-083B-474C-8085-44D51C6174EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2140DA-083B-474C-8085-44D51C6174EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B122F44F-AC45-4CAA-8B62-15AE3AF25900}
+	EndGlobalSection
+EndGlobal

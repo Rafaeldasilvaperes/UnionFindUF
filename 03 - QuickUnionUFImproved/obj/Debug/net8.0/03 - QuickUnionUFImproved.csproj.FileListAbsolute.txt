@@ -1,0 +1,19 @@
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\obj\Debug\net8.0\03 - QuickUnionUFImproved.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\obj\Debug\net8.0\03 - QuickUnionUFImproved.AssemblyInfoInputs.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\obj\Debug\net8.0\03 - QuickUnionUFImproved.AssemblyInfo.cs
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\obj\Debug\net8.0\03 - QuickUnionUFImproved.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\bin\Debug\net8.0\03 - QuickUnionUFImproved.exe
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\bin\Debug\net8.0\03 - QuickUnionUFImproved.deps.json
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\bin\Debug\net8.0\03 - QuickUnionUFImproved.runtimeconfig.json
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\bin\Debug\net8.0\03 - QuickUnionUFImproved.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\bin\Debug\net8.0\03 - QuickUnionUFImproved.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\obj\Debug\net8.0\03 - QuickUnionUFImproved.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\obj\Debug\net8.0\refint\03 - QuickUnionUFImproved.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\obj\Debug\net8.0\03 - QuickUnionUFImproved.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\obj\Debug\net8.0\03 - QuickUnionUFImproved.genruntimeconfig.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\obj\Debug\net8.0\ref\03 - QuickUnionUFImproved.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\bin\Debug\net8.0\Shared.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\bin\Debug\net8.0\Shared.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\obj\Debug\net8.0\03 - QuickUnionUFImproved.csproj.AssemblyReference.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\obj\Debug\net8.0\03 - Qui.CB15FAFD.Up2Date
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\03 - QuickUnionUFImproved\bin\Debug\net8.0\Spectre.Console.dll

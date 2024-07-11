@@ -1,0 +1,4 @@
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickUnionUF\obj\Debug\net8.0\02 - QuickUnionUF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickUnionUF\obj\Debug\net8.0\02 - QuickUnionUF.AssemblyInfoInputs.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickUnionUF\obj\Debug\net8.0\02 - QuickUnionUF.AssemblyInfo.cs
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickUnionUF\obj\Debug\net8.0\02 - QuickUnionUF.csproj.CoreCompileInputs.cache

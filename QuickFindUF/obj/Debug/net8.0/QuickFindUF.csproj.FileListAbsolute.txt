@@ -1,0 +1,14 @@
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\QuickFindUF.exe
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\QuickFindUF.deps.json
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\QuickFindUF.runtimeconfig.json
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\QuickFindUF.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\bin\Debug\net8.0\QuickFindUF.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\QuickFindUF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\QuickFindUF.AssemblyInfoInputs.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\QuickFindUF.AssemblyInfo.cs
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\QuickFindUF.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\QuickFindUF.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\refint\QuickFindUF.dll
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\QuickFindUF.pdb
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\QuickFindUF.genruntimeconfig.cache
+C:\Users\Gamer\Documents\Rafael\Algoritimos, Parte 1 - Coursera - Materiais\UnionFind\UnionFind\QuickFindUF\obj\Debug\net8.0\ref\QuickFindUF.dll
